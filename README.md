@@ -6,4 +6,4 @@ Repository containing portfolio of data science projects completed by me for aca
 2. Counting Bloom Filter
 3. Carbon Emissions Predictive Model
 4. Gene Mutation Sequencing 
-
+5. Regression and Bootstrapping
