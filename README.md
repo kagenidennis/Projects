@@ -5,7 +5,7 @@ Repository containing portfolio of computer science projects completed by me for
 ## Machine Learning
 1. MNIST
 2. Prncipal Component Analysis
-3. Facenook Causality
+3. Facebook Regression
 
 ## Statistical Inference
 1. Causal Inference
