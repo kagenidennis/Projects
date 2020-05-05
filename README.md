@@ -16,5 +16,5 @@ Repository containing portfolio of computer science projects completed by me for
 
 ## Algorithms & Data Structures
 1. Gene Mutation Sequencing 
-2. Regression and Bootstrapping
+2. Counting Bloom Filter
 
