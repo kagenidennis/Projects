@@ -1,10 +1,12 @@
 # Projects
-Repository containing portfolio of computer science projects completed by me for academic, self-learning, and fun. 
+Repository containing portfolio of computer science projects completed by me for academic, self-learning, and fun.
 
 # Contents
 ## Machine Learning
 1. MNIST
 2. Principal Landmarks
+3. Machine Learning Fashionista 1.0
+4. Machine Learning Fashionista 2.0
 
 ## Statistical Inference
 1. Causal Inference
@@ -15,6 +17,6 @@ Repository containing portfolio of computer science projects completed by me for
 2. Carbon Emissions Predictive Model
 
 ## Algorithms & Data Structures
-1. Gene Mutation Sequencing 
+1. Gene Mutation Sequencing
 2. Counting Bloom Filter
 
