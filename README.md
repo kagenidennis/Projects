@@ -7,6 +7,8 @@ Repository containing portfolio of computer science projects completed by me for
 2. Principal Landmarks
 3. Machine Learning Fashionista 1.0
 4. Machine Learning Fashionista 2.0
+5. Gaussian Process
+6. Topic Modeling
 
 ## Statistical Inference
 1. Causal Inference
