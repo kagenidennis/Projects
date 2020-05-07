@@ -22,3 +22,6 @@ Repository containing portfolio of computer science projects completed by me for
 1. Gene Mutation Sequencing
 2. Counting Bloom Filter
 
+## Modeling & Simulation
+1. Elevator Simulation
+2. Traffic Simulation
