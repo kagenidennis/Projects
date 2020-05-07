@@ -25,3 +25,5 @@ Repository containing portfolio of computer science projects completed by me for
 ## Modeling & Simulation
 1. Elevator Simulation
 2. Traffic Simulation
+3. Social Dynamics Model
+
