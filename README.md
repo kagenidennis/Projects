@@ -27,3 +27,6 @@ Repository containing portfolio of computer science projects completed by me for
 2. Traffic Simulation
 3. Social Dynamics Model
 
+## Optimization Methods
+1. Knapsack Problem
+
