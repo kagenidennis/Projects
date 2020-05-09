@@ -29,4 +29,5 @@ Repository containing portfolio of computer science projects completed by me for
 
 ## Optimization Methods
 1. Knapsack Problem
+2. Buenos Aires Tour
 
