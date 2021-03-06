@@ -1,0 +1,2 @@
+### Social Dynamics Model:
+Implemented an extension to a social dynamics model covered in class to explore the interaction between people’s preferences or opinions and the strength of their social connections by proposing modifications to the model to make the dynamics more realistic; implemented my improvements in a simulation, and analyzed the expected (theoretical) and actual (experimental) effects of my changes on the model.
